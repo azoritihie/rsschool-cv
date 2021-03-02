@@ -1,7 +1,7 @@
 # Ulyana Zorina
 
 
-# Personal information
+## Personal information
 
 | contact        | information              |
 | -------------- | ------------------------ |
@@ -13,18 +13,18 @@
 | Git account    | azoritihie               |
 | Phone number   | +79821217476             |
 
-# Objective and experience
+## Objective and experience
 
 1. I want to obtain a position as a frontend developer.
 2. I learn quickly and find the information I need
 3. I Responsibly carry out the tasks
 4. Personal qualities:attentiveness, responsibility,self-learning, communication skills
 
-# Skills
+## Skills
 
 Pascal
 
-# Code examples
+## Code examples
 ```
 function findShort(s){
   let short = 0;
@@ -49,14 +49,14 @@ function findShort(s){
 }
 ```
 
-# Experience
+## Experience
 
-# Education
+## Education
 
 2013-2017, Faculty of Informatics and Computer Science, Udmurt State University, Russian Federation, Izhevsck.
 Bachelor’s degree in Computer science
 
-# English
+## English
 
 A0 (Basic knowledge)
 
