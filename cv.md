@@ -18,7 +18,13 @@
 1. I want to obtain a position as a frontend developer.
 2. I learn quickly and find the information I need
 3. I Responsibly carry out the tasks
-4. Personal qualities:attentiveness, responsibility,self-learning, communication skills
+4. Personal qualities:
+
+   - attentiveness,
+   - responsibility,
+   - self-learning,
+   - communication skills
+
 
 ## Skills
 
