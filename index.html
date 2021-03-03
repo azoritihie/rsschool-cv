@@ -1,1 +1,88 @@
-
+<!doctype html>
+  <html>
+  <head>
+  <meta charset="utf-8">
+  <title>CV Ulyana Zorina</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+  <div class="conteiner">
+    <div class="header">
+      <div class="photo">
+        <img src="D:\Рабочий стол\foto.jpg" alt="foto" width="200px" height="300px">
+      </div>
+      <div class="author">
+        <div class="info_box">
+          <h2>Ulyana Zorina</h2>
+          <h3> Contact information </h3>
+          <ul> 
+              <li> Izhevsk, Russia </li>         
+              <li> 14 June 1995 </li>          
+              <li> Single  </li>  
+              <li> zorina-u@mail.ru </li>   
+              <li> butterfly140611@gmail.com </li> 
+              <li> git account: azoritihie </li> 
+              <li> +79821217476   </li>          
+            </ul>
+        </div>
+      </div>
+      <hr></hr>
+      <h3>Objective and experience</h3>
+      <p>
+      <ol> 
+        <li> I want to obtain a position as a frontend developer; </li>         
+        <li> I learn quickly and find the information I need; </li>          
+        <li> I Responsibly carry out the tasks;  </li>  
+        <li>Personal qualities:
+            <ul>
+                <li>attentiveness</li>
+                <li>responsibility</li>
+                <li>self-learning</li>
+                <li>communication skills</li>
+            </ul>
+        </li>       
+      </ol>
+      </p>
+      <hr></hr>
+      <h3>Skills</h3>
+      <p>Pascal</p>
+      <hr></hr>
+      <h3>Code example</h3>
+      <pre>
+        <code>  function findShort(s){
+            let short = 0;
+            let arrNum = [];
+            let min = 0;
+            for (let i = 0; i <= s.length ; i++) {
+              short++;
+              if (s[i] === ' ' || i === (s.length)) 
+              {
+                arrNum.push(short - 1);
+                short = 0;
+              }
+            }
+              min = arrNum[0];
+            for (let i = 0; i < arrNum.length; i++) 
+            {
+              if (min > arrNum[i])
+                {
+                    min = arrNum[i];
+                }
+            }
+            return min;
+            // return arrNum;
+          }
+          </code>
+        </pre>
+        <hr></hr>
+      <h3>Experience</h3>
+      <hr></hr>
+      <h3>Education</h3>
+      <p>2013-2017, Faculty of Informatics and Computer Science, Udmurt State University, Russian Federation, Izhevsck.
+        Bachelor’s degree in Computer science</p>
+      <hr></hr>
+      <h3>English</h3>
+      <p>A0 (Basic knowledge)</p>
+    </div>
+  </body>
+  </html>
