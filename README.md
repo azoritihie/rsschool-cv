@@ -1,1 +1,1 @@
-# https://azoritihie.github.io/gh-pages/
+# https://azoritihie.github.io/rsschool-cv/
